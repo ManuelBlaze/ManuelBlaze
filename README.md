@@ -4,7 +4,7 @@
 
 Full Stack Software Developer at [Perficient](https://www.perficient.com/). Every once in a while I have fun doing streams on [BlazePilgrim](https://www.facebook.com/gaming/Mblazepilgrim).
 
-Full Stack web developer with +1 year of experience in designing, building, testing and integrating web application interfaces using frameworks such as React and Meteor JS, well experienced in handling JavaScript, SQL and NoSQL databases such as MongoDB and developing web solutions as part of teams using agile methodologies such as Scrum. High understanding of current development technologies and migration of legacy applications efficiently applying development solutions. Contact me through [LinkedIn](https://www.linkedin.com/in/maaescobarmi/)
+Full Stack web developer with +2 years of experience in designing, building, testing and integrating web application interfaces using frameworks such as React and Meteor JS, well experienced in handling JavaScript, SQL and NoSQL databases such as MongoDB and developing web solutions as part of teams using agile methodologies such as Scrum. High understanding of current development technologies and migration of legacy applications efficiently applying development solutions. Contact me through [LinkedIn](https://www.linkedin.com/in/maaescobarmi/)
 
 Experience in FullStack web application development.
 ⚡MERN⚡
